@@ -1,0 +1,11 @@
+TimerTwo	KEYWORD1
+Timer2	KEYWORD2
+initialize	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+enablePwm	KEYWORD2
+disablePwm	KEYWORD2
+setPeriod	KEYWORD2
+attachInterrupt	KEYWORD2
+detachInterrupt	KEYWORD2
+TimerTwo_PIN	LITERAL1
